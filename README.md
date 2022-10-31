@@ -1,4 +1,17 @@
 
 # SocialUrbanize Social Media Application
 
-This is a full stack social media application created using React Js, Tailwind and Sanity. It contains features like Google authentication and create, edit, save and delete images , like and comment on other people's post, search and filter images.
+This is a full stack social media application.
+
+# Technologies used:
+ - React Js
+ - Tailwind
+ - Sanity
+ 
+# Features: 
+  - Google Authentication
+  - Create, Edit, Save and Delete images
+  - Like Comment on other people's post
+  - Search and Filter images
+ 
+
